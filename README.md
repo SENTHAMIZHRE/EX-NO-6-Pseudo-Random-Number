@@ -1,7 +1,7 @@
 # EX-NO-6-Pseudo-Random-Number
 
-## NAME:GOPIKRISHNAN M
-## REG NO:212223043001
+## NAME:senthamizh selvan
+## REG NO:212223235001
 
 
 # AIM: 
